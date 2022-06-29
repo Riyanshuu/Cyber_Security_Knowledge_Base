@@ -45,8 +45,6 @@ Ad Info: Total number of ports - 65535
 
 **Physical Layer** - Actual data transfer is prefined at this layer. It transmits raw bit streams over the physical medium. This layer converts bits into signals.
 
-![1655960322060.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c932689f-376c-45d6-a58d-748e21ab3f81/1655960322060.jpg)
-
 # OSI Layer Attacks
 | Layers | Attacks |
 | --- | --- |
