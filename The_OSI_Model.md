@@ -55,3 +55,5 @@ Ad Info: Total number of ports - 65535
 | Network Layer  | Man-in-the-Middle Attack |
 | Data Link Layer | Spoofing |
 | Physical Layer  | Sniffing |
+
+![OSI Layers, Functions, Protocols, Attacks, and Mitigations_page-0001](https://user-images.githubusercontent.com/68123282/176388155-c32a0719-b04e-4eeb-b036-9d621a9043b2.jpg)
