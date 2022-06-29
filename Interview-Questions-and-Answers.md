@@ -73,6 +73,10 @@
 
    https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/a5730903121f8cb2487cd4d10b2b4e2ac7b569b8/TCP_3-way_Handshake.md
    
+- **HTTP Status Codes**
+
+   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/7df551d74da97829030db3aeb64c915506b57fc8/HTTP_Status_Codes.md
+   
 ## Ethical Hacking
 
 - **What is active recon & passive recon?**
