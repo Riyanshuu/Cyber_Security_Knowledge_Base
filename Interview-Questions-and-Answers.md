@@ -1,4 +1,4 @@
-### Networking
+## Networking
 
 - **Difference between router and switch?**
     
@@ -69,7 +69,7 @@
 
    https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/0452909ed89513f01fe7050832cb4438f2f4b60d/Ports_and_Protocols.md
 
-### Ethical Hacking
+## Ethical Hacking
 
 - **What is active recon & passive recon?**
     - Active recon is where an attacker engages with the targeted company.
@@ -182,7 +182,7 @@
     
     VAPT Documenting is important as it gives you a complete overview of vulnerabilities with a POC (Proof of Concept) and remediation to fix those vulnerabilities. It also gives a score against each found issue and how much it can impact your application/website.
     
-    [Astra-Security-Sample-VAPT-Report.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e2cfbda-985a-421e-a7ea-5f333989e8a4/Astra-Security-Sample-VAPT-Report.pdf)
+    
     
 - **Penetration Testing on IOT devices.**
     
@@ -205,7 +205,7 @@ A zero-day vulnerability is a vulnerability in a system or device that has discl
 - A **zero-day exploit** is the method hackers use to attack systems with a previously unidentified vulnerability.
 - A **zero-day attack** is the use of a zero-day exploit to cause damage to or steal data from a system affected by a vulnerability.
 
-### Web Application Security
+## Web Application Security
 
 - **How will you exploit Reflected XSS?**
     
@@ -343,7 +343,7 @@ A zero-day vulnerability is a vulnerability in a system or device that has discl
     CRLF Injection (or HTTP Response splitting) is a software application coding vulnerability that occurs when an attacker injects a CRLF character sequence where it is not expected. It can lead to Cross-site scripting (XSS) and web cache poisoning.
     
 
-### Firewall
+## Firewall
 
 - **What is a checkpoint firewall?**
 - **How will you attack a windows machine with firewall enabled through metasploit framework?**
@@ -359,7 +359,7 @@ A zero-day vulnerability is a vulnerability in a system or device that has discl
     A firewall is a network security device used to monitor incoming and outgoing traffic and prevents unauthorized access.
     
 
-### SIEM
+## SIEM
 
 - **Correlation Rules**
     
@@ -371,7 +371,7 @@ A zero-day vulnerability is a vulnerability in a system or device that has discl
     
 - 
 
-### Miscellaneous
+## Miscellaneous
 
 - **How did you get into cyber security?**
 - **How well you are good at practical knowledge?**
