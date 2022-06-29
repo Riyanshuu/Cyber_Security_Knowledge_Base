@@ -63,5 +63,6 @@
     | Faster than HTTPS. | Slower than HTTP due to encryption. |
 - **OSI Model**
    
+   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/7e321d9d5d34442fa6b2ec5490f3e52b76d315cc/The_OSI_Model.md
     
 - **Different Port numbers**
