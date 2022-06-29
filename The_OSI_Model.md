@@ -1,3 +1,5 @@
+## The OSI Model
+
 The **Open System Interconnection** Model also known as ISO-OSI reference model. Developed by International Organization of Standardization (ISO). Describes flow of information from one computer to another. Consist of seven layers.
 
 - OSI is a logical model just to define a communication between two devices. This model enables devices from different vendors to communicate with each other.
