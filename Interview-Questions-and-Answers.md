@@ -63,20 +63,20 @@
     | Faster than HTTPS. | Slower than HTTP due to encryption. |
 - **OSI Model**
    
-   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/7e321d9d5d34442fa6b2ec5490f3e52b76d315cc/The_OSI_Model.md
-    
+    https://github.com/itsRiyanshu/Cyber_Security_Knowledge_Base/blob/f93be94343e0044b05153f4ff0f73e1bc1be0230/The_OSI_Model.md
+
 - **Different Port numbers**
 
-   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/0452909ed89513f01fe7050832cb4438f2f4b60d/Ports_and_Protocols.md
-
+    https://github.com/itsRiyanshu/Cyber_Security_Knowledge_Base/blob/f93be94343e0044b05153f4ff0f73e1bc1be0230/Ports_and_Protocols.md
+    
 - **TCP 3-Way Handshake**
 
-   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/a5730903121f8cb2487cd4d10b2b4e2ac7b569b8/TCP_3-way_Handshake.md
-   
+    https://github.com/itsRiyanshu/Cyber_Security_Knowledge_Base/blob/f93be94343e0044b05153f4ff0f73e1bc1be0230/TCP_3-way_Handshake.md
+
 - **HTTP Status Codes**
 
-   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/7df551d74da97829030db3aeb64c915506b57fc8/HTTP_Status_Codes.md
-   
+    https://github.com/itsRiyanshu/Cyber_Security_Knowledge_Base/blob/f93be94343e0044b05153f4ff0f73e1bc1be0230/HTTP_Status_Codes.md
+
 ## Ethical Hacking
 
 - **What is active recon & passive recon?**
