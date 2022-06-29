@@ -31,7 +31,7 @@ Ad Info: Total number of ports - 65535
 
 - Well-known ports - 0 to 1023
 - Registered ports - 1024 to 49151
-- Dynamic ports - 49152 to 65535(Registered ports & Dynamic ports are unfixed ports.)
+- Dynamic ports - 49152 to 65535 (Registered ports & Dynamic ports are unfixed ports.)
 
 **Network Layer** - Maintain end-to-end connectivity between two end systems. This layer defines all the functions used to get data from one port of network to another port of network. For example: IP IPX.
 
