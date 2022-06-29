@@ -1,3 +1,5 @@
+## HTTP Status Codes
+
 When accessing a web server or application, every HTTP request that is receives by a server is responded to with an HTTP status code. 
 
 HTTP status codes are three-digit codes, and are grouped into five different classes.
