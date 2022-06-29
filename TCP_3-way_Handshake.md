@@ -19,7 +19,7 @@ Three-way handshake process is designed in such a way that both ends help you to
 
 TCP traffic begins with a three-way handshake. In this TCP handshake process, a client needs to initiate the conversation by requesting a communication session with the Server:
 
-[092119_0753_TCP3WayHand1.webp](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6d48165d-5049-4a4c-ac70-a0edd11ab3de/092119_0753_TCP3WayHand1.webp)
+![092119_0753_TCP3WayHand1](https://user-images.githubusercontent.com/68123282/176364522-019b7424-d3d6-4309-a75d-493d94ff5af6.jpeg)
 
 3 way Handshake Diagram
 
