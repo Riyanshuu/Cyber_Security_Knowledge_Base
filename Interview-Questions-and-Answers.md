@@ -69,6 +69,10 @@
 
    https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/0452909ed89513f01fe7050832cb4438f2f4b60d/Ports_and_Protocols.md
 
+- **TCP 3-Way Handshake**
+
+   https://github.com/Riyanshuu/Cyber_Security_Knowledge_Base/blob/a5730903121f8cb2487cd4d10b2b4e2ac7b569b8/TCP_3-way_Handshake.md
+   
 ## Ethical Hacking
 
 - **What is active recon & passive recon?**
