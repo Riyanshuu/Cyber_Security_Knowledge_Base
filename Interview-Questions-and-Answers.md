@@ -49,11 +49,7 @@
     | --- | --- |
     | It works on the textual format which means it sends messages as plain text. | It works on the binary protocol which means it encodes messages into binary data. |
     | It compresses data by itself. | It uses HPACK for data compression. |
-    - **What is CRLF Injection?**
-        
-        CRLF (**Carriage Return** & **Line Feed**) 
-        
-        CRLF Injection (or HTTP Response splitting) is a software application coding vulnerability that occurs when an attacker injects a CRLF character sequence where it is not expected. It can lead to Cross-site scripting (XSS) and web cache poisoning.
+    
         
 - **Difference between HTTP and HTTPS?**
     
@@ -67,6 +63,5 @@
     | Faster than HTTPS. | Slower than HTTP due to encryption. |
 - **OSI Model**
     
-    [****The OSI Model****](https://www.notion.so/The-OSI-Model-56b58a07a0774f7aa6693e77379b9ef2) 
     
 - **Different Port numbers**
