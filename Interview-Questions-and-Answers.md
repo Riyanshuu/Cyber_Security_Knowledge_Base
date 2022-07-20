@@ -27,7 +27,7 @@
     | The host header is optional in HTTP 1.0 | The host header is required in HTTP 1.1 |
     | HTTP 1.0 can define 16 status codes. | HTTP 1.1 can define 24 status codes. |
     | In HTTP 1.0, authentication is unsafe as it is not encrypted. | In HTTP 1.1, authentication is safe as it uses a checksum of username, password and one time value. |
-- **What is error 402, error 302 & error 02?**
+- **What is error 402, error 302 & error 202?**
     
     **402** - Payment Required 
     
